@@ -1,1 +1,1 @@
-# physics-motor
+# plannets.js
